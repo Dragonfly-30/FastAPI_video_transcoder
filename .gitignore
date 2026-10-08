@@ -2,3 +2,4 @@
 .vibe-wise/
 __pycache__/
 *.py[cod]
+tests/
